@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Matheus-Marega
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any IT area
-- 📫 How to reach me send me a email: matheuspansanimarega@gmail.com
+
+Matheus - Estudante de Gestão de TI
+Oi!
+
+Sou o Matheus, um estudante de Gestão de TI apaixonado por tecnologia e seus diversos ramos, especialmente Python, Inteligência Artificial, Machine Learning e Ciência de Dados.
+
+Neste repositório, você encontrará projetos, experimentos e materiais de estudo que desenvolvi ao longo da minha jornada de aprendizado.
 
 <!---
 Matheus-Marega/Matheus-Marega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
