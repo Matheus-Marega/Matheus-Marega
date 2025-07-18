@@ -1,8 +1,7 @@
 
 Matheus - Estudante de Gestão de TI
-Oi!
 
-Sou o Matheus, um estudante de Gestão de TI apaixonado por tecnologia e seus diversos ramos, especialmente Python, Inteligência Artificial, Machine Learning e Ciência de Dados.
+Sou o Matheus, um estudante de Gestão de TI apaixonado por tecnologia e seus diversos ramos, especialmente Python, Inteligência Artificial, Automações e Dados.
 
 Neste repositório, você encontrará projetos, experimentos e materiais de estudo que desenvolvi ao longo da minha jornada de aprendizado.
 
